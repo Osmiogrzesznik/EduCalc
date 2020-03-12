@@ -1,0 +1,12 @@
+C:\Users\bolo\source\repos\WindowsApp11\WindowsApp11\bin\Debug\WindowsApp11.exe.config
+C:\Users\bolo\source\repos\WindowsApp11\WindowsApp11\bin\Debug\WindowsApp11.exe
+C:\Users\bolo\source\repos\WindowsApp11\WindowsApp11\bin\Debug\WindowsApp11.pdb
+C:\Users\bolo\source\repos\WindowsApp11\WindowsApp11\bin\Debug\WindowsApp11.xml
+C:\Users\bolo\source\repos\WindowsApp11\WindowsApp11\obj\Debug\WindowsApp11.Form1.resources
+C:\Users\bolo\source\repos\WindowsApp11\WindowsApp11\obj\Debug\WindowsApp11.Resources.resources
+C:\Users\bolo\source\repos\WindowsApp11\WindowsApp11\obj\Debug\WindowsApp11.vbproj.GenerateResource.Cache
+C:\Users\bolo\source\repos\WindowsApp11\WindowsApp11\obj\Debug\WindowsApp11.vbproj.CoreCompileInputs.cache
+C:\Users\bolo\source\repos\WindowsApp11\WindowsApp11\obj\Debug\WindowsApp11.exe
+C:\Users\bolo\source\repos\WindowsApp11\WindowsApp11\obj\Debug\WindowsApp11.xml
+C:\Users\bolo\source\repos\WindowsApp11\WindowsApp11\obj\Debug\WindowsApp11.pdb
+C:\Users\bolo\source\repos\WindowsApp11\WindowsApp11\obj\Debug\WindowsApp11.vbprojResolveAssemblyReference.cache

@@ -1,5 +1,5 @@
 # EduCalc
-## coding calc that shows how it works.
+## calc that shows how its coding works.
 Question 1.
 
 This Assignment Requirement is to program a simple calculator in Visual
